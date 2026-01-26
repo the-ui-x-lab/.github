@@ -1,11 +1,8 @@
-![ui-fe-banner](https://github.com/user-attachments/assets/39649b35-568c-4be5-80de-a1f778ed4d5f)
-## 🧪 UI-FE Experiments
+![lotus-light](https://github.com/user-attachments/assets/597e3ee6-9246-47db-a09d-cd171ed0ec36)
+## UI-FE Experiments
 UI-FE Experiments is a growing collection of frontend and user-interface experiments built through curiosity, iteration, and hands-on learning. This organization exists as a sandbox — a place to explore ideas, test visual concepts, try new patterns, and understand why things work the way they do in modern frontend development.
 <br/><br/>
-Frontend development evolves fast. Instead of chasing perfection, this org focuses on:
-- <b>1️⃣ Learning by doing:</b> Each experiment starts with a question or curiosity and turns into a working artifact — even if it’s rough or incomplete. Writing code, tweaking layouts, breaking things, and fixing them is the primary learning method here.
-- <b>2️⃣ Understanding fundamentals:</b> Whether it’s CSS layout behavior, rendering patterns, browser mechanics, or component composition, the goal is to slow down and understand
-- <b>3️⃣Treating experiments as stepping stones, not finished products:</b> Most repositories in this org are not meant to be production-ready or polished libraries. They are snapshots of learning at a moment in time — ideas explored
+Frontend development evolves fast. Instead of chasing perfection, this org focuses on: Learning by doing, Understanding Fundamentals and Treating Experiments as stepping stones.
 
 ### Philosophy
 Experiments over frameworks. Clarity over cleverness. Small ideas, built end-to-end. Curiosity-driven development.
